@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=jjk4&count_private=true&show_icons=true&theme=onedark)
+
+![Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jjk4&theme=onedark)
 <!--
 **jjk4/jjk4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
