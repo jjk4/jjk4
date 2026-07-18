@@ -1,6 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=jjk4&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=onedark)](https://github-stats-extended.vercel.app/api?username=jjk4&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=onedark)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=jjk4&layout=donut-vertical&langs_count=6&theme=onedark)](https://github-stats-extended.vercel.app/api/top-langs?username=jjk4&layout=donut-vertical&langs_count=6&theme=onedark)
 <!--
 ![Github Stats](https://gh-stats-gen.vercel.app/api?username=jjk4&count_private=true&show_icons=true&theme=onedark)
 
